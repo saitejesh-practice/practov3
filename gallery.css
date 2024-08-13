@@ -1,0 +1,24 @@
+*{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+#a1{
+
+    clear: both;
+    width: 30%;
+    float: left;
+    margin-left: 85px;
+    
+}
+#a2{
+    width: 30%;
+    float: left;
+    margin-left: 5px;
+
+}
+#a3{
+    margin-right: 45px;
+    width: 30%;
+    float: right
+
+}
